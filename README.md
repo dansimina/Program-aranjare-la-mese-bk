@@ -75,10 +75,3 @@ Programul utilizează **backtracking** pentru a determina cea mai bună distribu
 | Afișare siamezi | Arată toate **perechile care trebuie să stea la aceeași masă** |
 | Salvare & Ieșire | Salvează datele în `date.txt` pentru sesiuni viitoare |
 
----
-
-## 📌 Considerații de Performanță
-- **Backtracking optimizat** pentru a minimiza calculele inutile.
-- **Stocare eficientă a relațiilor** folosind **liste de adiacență**.
-- **Euristici de preprocesare** pentru **reducerea spațiului de căutare** înainte de începerea alocării.
-
